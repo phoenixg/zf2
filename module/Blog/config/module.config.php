@@ -9,6 +9,7 @@ return array(
     ),
     'router' => array(
         'routes' => array(
+            // blog是路由的名称
             'blog' => array(
                 'type'    => 'segment',
                 'options' => array(
